@@ -1,6 +1,6 @@
-## Structural-analogy from a Single Image Pair
+# Structural-analogy from a Single Image Pair
 
-
+![teaser](https://github.com/sagiebenaim/structural-analogy/blob/master/images/teaser.png)
 
 You can use the [editor on GitHub](https://github.com/sagiebenaim/structural-analogy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
