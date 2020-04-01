@@ -1,7 +1,8 @@
 # Structural-analogy from a Single Image Pair
 
-### [Sagie Benaim](https://sagiebenaim.github.io/), [Ron Mokady](mailto:ron.mokady@gmail.com), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Lior Wolf](https://www.cs.tau.ac.il/~wolf/)
+### [Sagie Benaim*](https://sagiebenaim.github.io/), [Ron Mokady*](mailto:ron.mokady@gmail.com), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Lior Wolf](https://www.cs.tau.ac.il/~wolf/)
 
+*Equal contribution.
 ![teaser](https://github.com/sagiebenaim/structural-analogy/blob/master/images/teaser.png)
 
 ## Abstract
@@ -26,52 +27,22 @@ Our code will be made publicly available.
 
 ## Paper
 
+Our paper, indlucing results from the supplementary material, is available [here](link).
 
 ## Code
 
+Pytorch implementation of our work is available [here](link).
 
-## Videos
+## Video Translation
 
-As detailed in Section XXX of the paper, we provide a video to video translation, where only a single frame is present in the target. 
+As detailed in of the paper, we provide video translation results here. 
+In the following, the image in the top right is the target image, the video on the bottom left is the source video and the video on the bottom right is the translated video. 
 
-![balloons2birds](https://github.com/sagiebenaim/structural-analogy/blob/master/videos/balloons2birds.mp4)
+![balloons2birds](https://github.com/sagiebenaim/structural-analogy/blob/master/images/birds.gif)
 
-![fire2stone](https://github.com/sagiebenaim/structural-analogy/blob/master/videos/fire2stone.mp4)
+![fire2stone](https://github.com/sagiebenaim/structural-analogy/blob/master/images/volcano.gif)
 
 
+## Contact
 
-You can use the [editor on GitHub](https://github.com/sagiebenaim/structural-analogy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Abstract
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sagiebenaim/structural-analogy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For further questions, please email sagiebenaim@gmail.com or ron.mokady@gmail.com.
