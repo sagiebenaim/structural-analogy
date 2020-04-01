@@ -2,9 +2,9 @@
 
 ![teaser](https://github.com/sagiebenaim/structural-analogy/blob/master/images/teaser.png)
 
-Sagie Benaim, Ron Mokady, Amit Bermano, Daniel Cohen-or, Lior Wolf
+[Sagie Benaim](https://sagiebenaim.github.io/), [Ron Mokady](mailto:ron.mokady@gmail.com), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Daniel Cohen-or](https://www.cs.tau.ac.il/~dcor/), [Lior Wolf](https://www.cs.tau.ac.il/~wolf/)
 
-### Abstract
+## Abstract
 
 The task of unsupervised image-to-image translation has
 seen substantial advancements in recent years through the use of deep
@@ -23,6 +23,22 @@ alignment, our method can be used to generate high quality imagery in
 other conditional generation tasks utilizing images A and B only: guided
 image synthesis, style and texture transfer, as well as text translation.
 Our code will be made publicly available.
+
+## Paper
+
+
+## Code
+
+
+## Videos
+
+As detailed in Section XXX of the paper, we provide a video to video translation, where only a single frame is present in the target. 
+
+![balloons2birds](https://github.com/sagiebenaim/structural-analogy/blob/master/videos/balloons2birds.mp4)
+
+![fire2stone](https://github.com/sagiebenaim/structural-analogy/blob/master/videos/fire2stone.mp4)
+
+
 
 You can use the [editor on GitHub](https://github.com/sagiebenaim/structural-analogy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
