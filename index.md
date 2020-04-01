@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Structural-analogy from a Single Image Pair
-tagline: Structural-analogy from a Single Image Pair
 description: Structural-analogy from a Single Image Pair
 ---
 
