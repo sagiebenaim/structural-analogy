@@ -2,8 +2,7 @@
 
 ### [Sagie Benaim*](https://sagiebenaim.github.io/), [Ron Mokady*](mailto:ron.mokady@gmail.com), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Lior Wolf](https://www.cs.tau.ac.il/~wolf/)
 
-* Equal contribution. 
-
+*Equal contribution.
 ![teaser](https://github.com/sagiebenaim/structural-analogy/blob/master/images/teaser.png)
 
 ## Abstract
