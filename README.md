@@ -26,7 +26,7 @@ Our code will be made publicly available.
 
 ## Paper
 
-Our paper, indlucing results from the supplementary material, is available [here](link}
+Our paper, indlucing results from the supplementary material, is available [here](link)
 
 ## Code
 
@@ -34,9 +34,11 @@ Pytorch implementation of our work is available [here](link)
 
 ## Videos
 
-As detailed in of the paper, we provide translation results here :, where only a single frame is present in the target. 
+As detailed in of the paper, we provide video translation results here. 
+
+In the following, the image in the top right is the target image, the video on the bottom left is the source video and the video on the bottom right is the translated video. 
 
 ![balloons2birds](https://github.com/sagiebenaim/structural-analogy/blob/master/images/birds.gif)
 
-![fire2stone](https://github.com/sagiebenaim/structural-analogy/blob/master/images/volcano.mp4)
+![fire2stone](https://github.com/sagiebenaim/structural-analogy/blob/master/images/volcano.gif)
 
