@@ -27,11 +27,11 @@ Our code will be made publicly available.
 
 ## Paper
 
-Our paper, indlucing results from the supplementary material, is available [here](link)
+Our paper, indlucing results from the supplementary material, is available [here](link).
 
 ## Code
 
-Pytorch implementation of our work is available [here](link)
+Pytorch implementation of our work is available [here](link).
 
 ## Video Translation
 
