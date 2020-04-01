@@ -1,6 +1,5 @@
 ---
 layout: page
-description: Structural-analogy from a Single Image Pair
 ---
 
 # Structural-analogy from a Single Image Pair
