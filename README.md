@@ -1,6 +1,8 @@
 # Structural-analogy from a Single Image Pair
 
-### [Sagie Benaim](https://sagiebenaim.github.io/), [Ron Mokady](mailto:ron.mokady@gmail.com), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Lior Wolf](https://www.cs.tau.ac.il/~wolf/)
+### [Sagie Benaim*](https://sagiebenaim.github.io/), [Ron Mokady*](mailto:ron.mokady@gmail.com), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Lior Wolf](https://www.cs.tau.ac.il/~wolf/)
+
+* Equal contribution. 
 
 ![teaser](https://github.com/sagiebenaim/structural-analogy/blob/master/images/teaser.png)
 
@@ -32,13 +34,16 @@ Our paper, indlucing results from the supplementary material, is available [here
 
 Pytorch implementation of our work is available [here](link)
 
-## Videos
+## Video Translation
 
 As detailed in of the paper, we provide video translation results here. 
-
 In the following, the image in the top right is the target image, the video on the bottom left is the source video and the video on the bottom right is the translated video. 
 
 ![balloons2birds](https://github.com/sagiebenaim/structural-analogy/blob/master/images/birds.gif)
 
 ![fire2stone](https://github.com/sagiebenaim/structural-analogy/blob/master/images/volcano.gif)
 
+
+## Contact
+
+For further questions, please email sagiebenaim@gmail.com or ron.mokady@gmail.com.
