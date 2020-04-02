@@ -1,0 +1,104 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Structural-analogy from a Single Image Pair
+</title>
+<link href="css/index.css" rel="stylesheet" type="text/css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+</head>
+<body>
+<div class="container">
+  <p><span class="title">Structural-analogy from a Single Image Pair</span></p>
+  <br>
+  <table border="0" align="center" class="authors">
+    <tbody><tr align="center">
+      <td><a href="https://sagiebenaim.github.io/">Sagie Benaim</a>*</td>
+      <td><a href="mailto:ron.mokady@gmail.com">Ron Mokady</a>*</td>
+      <td><a href="https://www.cs.tau.ac.il/~amberman/">Amit Bermano</a></td>
+      <td><a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a></td>
+      <td><a href="https://www.cs.tau.ac.il/~wolf/">Lior Wolf</a></td>
+    </tr>
+  </tbody></table>
+    <p class="section">&nbsp;</p>
+  <table width="200" border="0" align="center">
+    <tbody><tr>
+      <td><img src="images/teaser.png" width="950" alt=""></td>
+    </tr>
+    <p style="font-size: 14px">* Equal contributors.</p>
+    <tr>
+      <td class="caption"><p>Our method takes two images as input (left and right), and generates images that consist of
+features from one image, spatially structured analogically to the other.</p></td>
+    </tr>
+</tbody></table>
+    <p class="section">&nbsp;</p>
+ <p><span class="section">Abstract</span></p>
+  <p>The task of unsupervised image-to-image translation has seen substantial advancements in recent years through the use of deep neural networks. Typically, the proposed solutions learn the characterizing distribution of two large, unpaired collections of images, and are able to alter the appearance of a given image, while keeping its geometry intact. In this paper, we explore the capabilities of neural networks to understand image structure given only a single pair of images, A and B. We seek to generate images that are structurally aligned : that is, to generate an image that keeps the appearance and style of B, but has a structural arrangement that corresponds to A. The key idea is to map between image patches at different scales. This enables controlling the granularity at which analogies are produced, which determines the conceptual distinction between style and content. In addition to structural alignment, our method can be used to generate high quality imagery in other conditional generation tasks utilizing images A and B only: guided image synthesis, style and texture transfer, text translation as well as video translation.<br>
+  </p>
+  <p class="section">Paper</p>
+  <table border="0">
+    <tbody>
+      <tr>
+        <td><a href="paper.pdf"><img src="images/paper.png" alt="" width="200"></a></td>
+        <td>&nbsp;</td>
+        <td><p><br>"Structural-analogy from a Single Image Pair",<br> Sagie Benaim*, Ron Mokady*, Amit Bermano, Daniel Cohen-Or and Lior Wolf.</p>
+        [<a href="paper.pdf">PDF</a>]</td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="section">Code:</p>
+  <table width="283" height="136" border="0">
+    <tbody>
+      <tr>
+        <td width="165"><a href="https://github.com/sagiebenaim/DomainIntersectionDifference"><img src="images/code.png" alt="" width="200"></a></td>
+        <td width="6">&nbsp;</td>
+        <td width="56"><p>[<a href="https://github.com/sagiebenaim/DomainIntersectionDifference">Link</a>]</p></td>
+      </tr>
+    </tbody>
+  </table>
+  </tbody></table>
+  <p class="section">Video Translation</p>
+  <table border="0" align="center">
+    <td> As detailed in of the paper, we provide video translation results here. In the following, the image in the top right is the target image, the video on the bottom left is the source video and the video on the bottom right is the translated video.
+    <tbody><tr>
+      <td><br><img src="images/birds.gif" alt="" width="200"></a>
+      <img src="images/volcano.gif" alt="" width="200"></a></td>
+    </tr>
+</tbody></table>
+
+<!--
+  <p class="section">Google Research Blog</p>
+  <table width="1300" border="0">
+    <tbody>
+      <tr>
+        <td width="136"><img src="images/research_blog.png" width="200" height="131" alt=""/></td>
+        <td width="1048"><a href="https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html"><img src="images/blog_post.png" width="300" height="166" alt=""/></a></td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="section">Press</p>
+  <table border="0" cellpadding="10">
+    <tbody>
+      <tr>
+        <td><a href="https://www.theverge.com/2017/8/18/16162108/google-research-algorithm-watermark-removal-photo-protection"><img src="images/the_verge_2016_logo.png" width="200" height="37" alt=""/></a></td>
+        <td><a href="https://petapixel.com/2017/08/18/ai-can-easily-erase-photo-watermarks-heres-protect/"><img src="images/petapixel.png" width="200" height="50" alt=""/></a></td>
+        <td><a href="https://www.engadget.com/2017/08/18/google-flawlessly-remove-stock-photo-watermarks/"><img src="images/engadget.png" width="200" height="44" alt=""/></a></td>
+        <td><a href="https://www.wired.com/story/stock-photo-google-algorithm/"><img src="images/wired-logo.jpg" width="200" height="46" alt=""/></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.dailymail.co.uk/sciencetech/article-4803562/Google-AI-easily-erase-watermarks-photos.html"><img src="images/dm_com_29.png" width="210" height="62" alt=""/></a></td>
+        <td><a href="https://thenextweb.com/google/2017/08/18/google-watermark-stock-photo-remove/"><img src="images/the_next_web_logo.jpg" width="190" height="100" alt=""/></a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="section">&nbsp;</p>
+  <p class="section">&nbsp;</p>
+  <p class="section">&nbsp;</p>
+-->  </p>
+  <p class="section">&nbsp;</p>
+  <p align="center" class="date">Last updated: Jan 2020</p>
+</div>
+
+
+</body></html>
